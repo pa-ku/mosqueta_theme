@@ -1,4 +1,4 @@
-# mosqueta Theme
+# Mosqueta Theme
 
 Diseñado para ofrecer una experiencia de desarrollo serena y enfocada. Con una paleta de colores en tonos rosados y suaves, este tema busca minimizar distracciones y mejorar la visibilidad del código.
 
@@ -11,3 +11,7 @@ Diseñado para ofrecer una experiencia de desarrollo serena y enfocada. Con una 
 Enfoque en la Productividad: Diseñado para evitar distracciones, Cosmos te permite centrarte en lo que realmente importa: tu código.
 
 Repo: https://github.com/pa-ku/mosqueta
+
+![main](https://github.com/pa-ku/mosqueta_vstheme/blob/main/readme_images/Captura%20de%20pantalla%202024-06-12%20161349.png)
+![Css](https://github.com/pa-ku/mosqueta_vstheme/blob/main/readme_images/css.png)
+![usestate](https://github.com/pa-ku/mosqueta_vstheme/blob/main/readme_images/usestate.png)
