@@ -1,4 +1,4 @@
-# <img src="https://github.com/pa-ku/mosqueta_vstheme/blob/main/icon.png" heigth="50px" width="50px">  Mosqueta darkTheme 
+# <img src="https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/icon.png" heigth="50px" width="50px"> Mosqueta darkTheme
 
 Diseñado para ofrecer una experiencia de desarrollo serena y enfocada. Con una paleta de colores en tonos rosados y suaves, este tema busca minimizar distracciones y mejorar la visibilidad del código.
 
@@ -15,8 +15,10 @@ Repo: https://github.com/pa-ku/mosqueta_vstheme
 ![main](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/main.png)
 
 ## Css
+
 ![Css](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/css.png)
 
 ## React
+
 ![usestate](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/react.png)
 ![usestate](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/react2.png)
