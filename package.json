@@ -1,0 +1,22 @@
+{
+  "name": "cosmos",
+  "displayName": "cosmos",
+  "description": "Un dark theme con mejor visibilidad ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cosmos",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cosmos-color-theme.json"
+      }
+    ]
+  }
+}
