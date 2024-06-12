@@ -12,11 +12,11 @@ Enfoque en la Productividad: Diseñado para evitar distracciones, Cosmos te perm
 
 Repo: https://github.com/pa-ku/mosqueta_vstheme
 
-![main](https://github.com/pa-ku/mosqueta_vstheme/blob/main/readme_images/main.png)
+![main](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/main.png)
 
 ## Css
-![Css](https://github.com/pa-ku/mosqueta_vstheme/blob/main/readme_images/css.png)
+![Css](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/css.png)
 
 ## React
-![usestate](https://github.com/pa-ku/mosqueta_vstheme/blob/main/readme_images/react2.png)
-![usestate](https://github.com/pa-ku/mosqueta_vstheme/blob/main/readme_images/react.png)
+![usestate](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/react.png)
+![usestate](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/react2.png)
