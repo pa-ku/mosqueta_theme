@@ -1,4 +1,4 @@
-# Mosqueta Theme
+# <img src="https://github.com/pa-ku/mosqueta_vstheme/blob/main/icon.png" heigth="50px" width="50px">  Mosqueta darkTheme 
 
 Diseñado para ofrecer una experiencia de desarrollo serena y enfocada. Con una paleta de colores en tonos rosados y suaves, este tema busca minimizar distracciones y mejorar la visibilidad del código.
 
