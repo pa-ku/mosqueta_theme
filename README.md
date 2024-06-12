@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/icon.png" heigth="50px" width="50px"> Mosqueta darkTheme
+<h1>$${\color{pink}Mosqueta}$$</h1>
 
-Diseñado para ofrecer una experiencia de desarrollo serena y enfocada. Con una paleta de colores en tonos rosados y suaves, este tema busca minimizar distracciones y mejorar la visibilidad del código.
+<img src="https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/icon.png" heigth="50px" width="50px">  Diseñado para ofrecer una experiencia de desarrollo serena y enfocada. Con una paleta de colores en tonos rosados y suaves, este tema busca minimizar distracciones y mejorar la visibilidad del código.
 
 - Un tema No Tan Oscuro: Una base de colores oscuros pero no demasiado intensos proporciona un contraste equilibrado, reduciendo la fatiga visual y mejorando la legibilidad.
 
