@@ -4,7 +4,7 @@
   "license": "MIT",
   "author": "Paku",
   "description": "Un dark theme con mejor visibilidad ",
-  "version": "0.0.1",
+  "version": "2.0.0",
   "publisher": "Paku",
   "engines": {
     "vscode": "^1.90.0"
