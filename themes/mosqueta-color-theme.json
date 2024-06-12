@@ -1,5 +1,5 @@
 {
-	"name":"cosmos",
+	"name":"mosqueta",
 	"type": "dark",
 	"colors": {
 	
@@ -36,10 +36,13 @@
 		"inputValidation.infoBorder": "#5ccfe6",
 		"inputValidation.warningBackground": "#1f2430",
 		"inputValidation.warningBorder": "#ffd173",
-		"scrollbar.shadow": "#171b24",
-		"scrollbarSlider.background": "#0000005a",
+
+		"scrollbar.shadow": "#3154a5",
+		"scrollbarSlider.background": "#30002b5a",
 		"scrollbarSlider.hoverBackground": "#30002b5a",
 		"scrollbarSlider.activeBackground": "#63759926",
+
+	
 		"badge.background": "#ffcc6633",
 		"badge.foreground": "#ffcc66",
 		"progressBar.background": "#ffcc66",
@@ -86,7 +89,7 @@
 
 
 
-		"tab.activeBackground": "#450b3d",
+		"tab.activeBackground": "#21061e",
 		"tab.activeForeground": "#ffffff",
 		"tab.border": "#171b24",
 		"tab.activeBorder": "#fda2f1",
@@ -234,11 +237,10 @@
 		"terminal.ansiBrightBlue": "#73d0ff",
 		"terminal.ansiBrightMagenta": "#dfbfff",
 		"terminal.ansiBrightCyan": "#95e6cb",
-		"terminal.ansiBrightWhite": "#ffffff",
-
-		"activityBar.activeFocusBorder": "#381818",
+		"terminal.ansiBrightWhite": "#ffffff",		"activityBar.activeFocusBorder": "#250621",
+		
 		"activityBarTop.background": "#111",
-		"activityBarTop.activeBackground": "#450b3d",
+		"activityBarTop.activeBackground": "#3b0835",
 		"activityBarTop.activeBorder": "#fda2f1",
 		"activityBarTop.inactiveForeground": "#ffe9fc",
 
@@ -443,12 +445,12 @@
 			}
 		},
 		{
-			"name": "arrow function",
+			"name": "showFunctions",
 			"scope": [
 				"storage.type.function"
 			],
 			"settings": {
-				"foreground": "#6fe0f9"
+				"foreground": "#86f0e0"
 			}
 		},
 		{

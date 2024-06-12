@@ -1,8 +1,11 @@
 {
-  "name": "cosmos",
-  "displayName": "cosmos",
+  "name": "mosqueta",
+  "displayName": "dark cosmos",
+  "license": "MIT",
+  "author": "Paku",
   "description": "Un dark theme con mejor visibilidad ",
   "version": "0.0.1",
+  "publisher": "Paku",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -13,9 +16,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "cosmos",
+        "label": "mosqueta",
         "uiTheme": "vs-dark",
-        "path": "./themes/cosmos-color-theme.json"
+        "path": "./themes/mosqueta-color-theme.json"
       }
     ]
   }
