@@ -11,7 +11,10 @@ Diseñado para ofrecer una experiencia de desarrollo serena y enfocada. Con una 
 - Enfoque en la Productividad: Diseñado para evitar distracciones, mosqueta te permite centrarte en lo que realmente importa: tu código.
 
 Repo: https://github.com/pa-ku/mosqueta_vstheme
+<br>
 Extension: https://marketplace.visualstudio.com/items?itemName=Paku.mosqueta
+
+# Imagenes
 
 ![main](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/main.png)
 
