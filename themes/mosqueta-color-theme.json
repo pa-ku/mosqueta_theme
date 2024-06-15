@@ -181,7 +181,6 @@
     "gitDecoration.deletedResourceForeground": "#f27983b3",
     "gitDecoration.untrackedResourceForeground": "#87d96cb3",
     "gitDecoration.ignoredResourceForeground": "#707a8c80",
-    "gitDecoration.conflictingResourceForeground": "",
     "gitDecoration.submoduleResourceForeground": "#dfbfffb3",
     "settings.headerForeground": "#cccac2",
     "settings.modifiedItemIndicator": "#80bfff",
@@ -565,7 +564,6 @@
       "name": "CSS Properties",
       "scope": ["support.type.property-name"],
       "settings": {
-        "fontStyle": "normal",
         "foreground": "#5ccfe6"
       }
     },

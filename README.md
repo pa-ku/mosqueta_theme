@@ -1,4 +1,4 @@
- <h1>Mosqueta darkTheme<img src="https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/icon.png" heigth="50px" width="50px"></h1>
+ <h1>Mosqueta dark theme <img src="https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/icon.png" heigth="50px" width="50px"></h1>
 
 Diseñado para ofrecer una experiencia de desarrollo serena y enfocada. Con una paleta de colores en tonos rosados y suaves, este tema busca minimizar distracciones y mejorar la visibilidad del código.
 
@@ -21,7 +21,5 @@ Extension: https://marketplace.visualstudio.com/items?itemName=Paku.mosqueta
 
 ![Css](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/css.png)
 
-## React
-
-![usestate](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/react.png)
-![usestate](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/react2.png)
+![Css](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/react.png)
+![console](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/console.png)
