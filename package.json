@@ -2,10 +2,10 @@
   "name": "mosqueta",
   "displayName": "Mosqueta",
   "license": "MIT",
-  "author": "Paku",
-  "description": "Un dark theme con mejor visibilidad ",
-  "version": "2.0.7",
-  "publisher": ".Paku",
+  "author": "paku",
+  "description": "Un dark theme con mejor visibilidad",
+  "version": "2.1.1",
+  "publisher": "Paku",
   "repository": "https://github.com/pa-ku/mosqueta_vstheme",
   "engines": {
     "vscode": "^1.90.0"
@@ -17,7 +17,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mosqueta",
+        "label": "mosqueta",
         "uiTheme": "vs-dark",
         "path": "./themes/mosqueta-color-theme.json"
       }

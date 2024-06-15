@@ -215,9 +215,13 @@
     "activityBarTop.activeBackground": "#3b0835",
     "activityBar.background": "#171b24",
     "activityBarTop.activeBorder": "#fda2f1",
-    "activityBarTop.inactiveForeground": "#ffe9fc",
+    "activityBarTop.inactiveForeground": "#f6e7f4",
     "activityBarBadge.background": "#d660c7",
-    "activityBarBadge.foreground": "#fff",
+
+    "activityBar.activeBorder": "#3b0835",
+    "activityBar.activeBackground": "#3b0835",
+
+    "activityBar.inactiveForeground": "#f6e7f4",
 
     "statusBar.background": "#171b24",
     "statusBar.foreground": "#707a8c",
@@ -233,7 +237,7 @@
     "tab.activeBackground": "#21061e",
     "tab.activeForeground": "#ffffff",
     "tab.border": "#171b24",
-    "tab.activeBorder": "#fda2f1",
+    "tab.activeBorder": "#d660c7",
     "tab.activeBorderTop": "#171b24",
     "tab.unfocusedActiveBorderTop": "#707a8c",
     "tab.inactiveBackground": "#232834",
