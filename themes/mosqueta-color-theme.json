@@ -211,7 +211,6 @@
 
     "list.warningForeground": "#ffb56a",
 
-    //BOTONES NAVEGACION EXTENSIONES PROYECTOS etc
     "activityBar.activeFocusBorder": "#250621",
     "activityBarTop.background": "#111",
     "activityBarTop.activeBackground": "#3b0835",
@@ -221,12 +220,10 @@
     "activityBarBadge.background": "#d660c7",
     "activityBarBadge.foreground": "#fff",
 
-    //BARRA FOOTER
     "statusBar.background": "#171b24",
     "statusBar.foreground": "#707a8c",
     "statusBar.border": "#171b24",
 
-    //NavBar superior
     "menubar.selectionBackground": "#111",
     "titleBar.activeBackground": "#171b24",
     "titleBar.activeForeground": "#bdc3cf",
@@ -234,7 +231,6 @@
     "titleBar.inactiveForeground": "#9ca6b8",
     "titleBar.border": "#181c27",
 
-    //Barra donde se muestran las carpetas abiertas
     "tab.activeBackground": "#21061e",
     "tab.activeForeground": "#ffffff",
     "tab.border": "#171b24",
@@ -247,7 +243,6 @@
     "tab.unfocusedInactiveForeground": "#707a8c",
     "tab.hoverBackground": "#2d3341",
 
-    //parte derecha de los tabs
     "editorGroup.border": "#171b24",
     "editorGroupHeader.noTabsBackground": "#1f2430",
     "editorGroupHeader.tabsBackground": "#1c212b",
@@ -410,7 +405,7 @@
       "name": "showFunctions",
       "scope": ["storage.type.function"],
       "settings": {
-        "foreground": "#fa95ff"
+        "foreground": "#f28779"
       }
     },
     {
