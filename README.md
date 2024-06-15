@@ -17,9 +17,4 @@ Extension: https://marketplace.visualstudio.com/items?itemName=Paku.mosqueta
 
 ![main](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/main.png)
 
-## Css
-
-![Css](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/css.png)
-
-![Css](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/react.png)
-![console](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/console.png)
+![example](https://raw.githubusercontent.com/pa-ku/mosqueta_vstheme/main/readme_images/example.png)
