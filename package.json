@@ -10,7 +10,7 @@
   "engines": {
     "vscode": "^1.90.0"
   },
-  "icon": "icon.png",
+  "icon": "icon.webp",
   "categories": [
     "Themes"
   ],
