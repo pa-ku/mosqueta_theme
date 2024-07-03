@@ -43,7 +43,7 @@
     "tab.activeBackground": "#21061e",
     "tab.activeForeground": "#ffffff",
     "tab.border": "#171b24",
-    "tab.activeBorder": "#d660c7",
+    "tab.activeBorder": "#3b0835",
     "tab.activeBorderTop": "#171b24",
     "tab.unfocusedActiveBorderTop": "#707a8c",
     "tab.inactiveBackground": "#232834",
@@ -86,9 +86,9 @@
     "inputValidation.warningBackground": "#1f2430",
     "inputValidation.warningBorder": "#ffd173",
 
-    "scrollbar.shadow": "#30002b31",
-    "scrollbarSlider.background": "#30002b5a",
-    "scrollbarSlider.hoverBackground": "#30002b5a",
+    "scrollbar.shadow": "#63759926",
+    "scrollbarSlider.background": "#63759926",
+    "scrollbarSlider.hoverBackground": "#afbdda26",
     "scrollbarSlider.activeBackground": "#63759926",
 
     "badge.background": "#ffcc6633",
