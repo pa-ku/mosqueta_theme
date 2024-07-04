@@ -8,3 +8,6 @@
 2.1.8
 - Un color mas sutil en el scrollbar
 - Los tabs ahora tienen un borde mas sutil
+
+2.1.9
+- Readme Update
