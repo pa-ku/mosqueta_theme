@@ -2,7 +2,7 @@
  
 - **Minimalista:** Diseñado para ofrecer una experiencia de desarrollo serena y enfocada.
 
-- **Visibilidad:** Con una paleta de colores en tonos rosados y suaves, este tema busca minimizar distracciones y mejorar la visibilidad del código.
+- **Visibilidad:** Con una paleta de colores en tonos rosados y suaves, este tema busca minimizar distracciones.
 
 - **Ligero:** Mosqueta agrega solo lo necesario, pesando asi solo 20kb
 
