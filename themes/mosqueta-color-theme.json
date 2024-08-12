@@ -22,7 +22,7 @@
 
     "activityBar.activeBorder": "#3b0835",
     "activityBar.activeBackground": "#3b0835",
-    "activityBar.foreground":"#ffffff",
+    "activityBar.foreground": "#ffffff",
     "activityBar.inactiveForeground": "#d1d1d1",
 
     "statusBar.background": "#171b24",
@@ -94,7 +94,7 @@
     "badge.background": "#ff89ef44",
     "badge.foreground": "#ff89ef",
     "progressBar.background": "#ff89ef",
-    
+
     "list.activeSelectionBackground": "#ff89ef1a",
     "list.inactiveSelectionBackground": "#ff89ef1a",
     "list.activeSelectionForeground": "#ff89ef",
@@ -105,7 +105,7 @@
     "list.focusOutline": "#ff89ef1a",
     "list.highlightForeground": "#ff89ef",
     "list.deemphasizedForeground": "#ff6666",
- 
+
     "list.hoverBackground": "#ff89ef0e",
 
     "list.invalidItemForeground": "#707a8c4d",
@@ -121,10 +121,9 @@
     "sideBar.background": "#1f2430",
     "sideBar.border": "#171b24",
 
-
     "sideBarTitle.foreground": "#d660c7",
     "sideBarSectionHeader.foreground": "#9d9d9d",
-    
+
     "sideBarSectionHeader.background": "#1f2430",
     "sideBarSectionHeader.border": "#3b445a",
 
@@ -193,9 +192,6 @@
     "editorSuggestWidget.highlightForeground": "#fda2f1",
     "editorSuggestWidget.selectedBackground": "#63759926",
 
-
-
-    
     "debugExceptionWidget.border": "#171b24",
     "debugExceptionWidget.background": "#1c212b",
     "editorMarkerNavigation.background": "#1c212b",
@@ -228,23 +224,26 @@
     "statusBarItem.remoteBackground": "#3b0835",
     "statusBarItem.remoteForeground": "#fda2f1",
 
-    "extensionButton.prominentForeground": "#805500",
-    "extensionButton.prominentBackground": "#ffcc66",
+    "extensionButton.prominentForeground": "#3b0835",
+    "extensionButton.prominentBackground": "#fda2f1",
     "extensionButton.prominentHoverBackground": "#fac761",
     "pickerGroup.border": "#171b24",
     "pickerGroup.foreground": "#707a8c80",
     "debugToolBar.background": "#1c212b",
     "debugIcon.breakpointForeground": "#f29e74",
     "debugIcon.breakpointDisabledForeground": "#f29e7480",
-    "debugConsoleInputIcon.foreground": "#ffcc66",
+    "debugConsoleInputIcon.foreground": "#fda2f1",
     "welcomePage.tileBackground": "#1f2430",
     "welcomePage.progress.background": "#1a1f29",
     "walkThrough.embeddedEditorBackground": "#1c212b",
+
     "gitDecoration.modifiedResourceForeground": "#80bfffb3",
     "gitDecoration.deletedResourceForeground": "#f27983b3",
-    "gitDecoration.untrackedResourceForeground": "#87d96cb3",
+    "gitDecoration.untrackedResourceForeground": "#b6ff9db3",
     "gitDecoration.ignoredResourceForeground": "#707a8c80",
     "gitDecoration.submoduleResourceForeground": "#dfbfffb3",
+    "gitDecoration.renamedResourceForeground": "#99ccffb3",
+
     "settings.headerForeground": "#cccac2",
     "settings.modifiedItemIndicator": "#80bfff",
     "keybindingLabel.background": "#707a8c1a",

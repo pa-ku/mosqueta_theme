@@ -36,5 +36,5 @@
 - list:
     - Ahora tienen un color gris claro
 
-- extra:
+- Extra:
     - el color de los errores ahora es mas claro
