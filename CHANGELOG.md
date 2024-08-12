@@ -38,3 +38,13 @@
 
 - Extra:
     - el color de los errores ahora es mas claro
+
+2.2.2
+-Activity bar:
+    - el color ahora no es rosa sino un azul oscuro facilitando la integración de la ui
+    - Ahora el rosa al seleccionar un link es mas suave
+    - los anchor tienen un rosa mas suave
+    - el amarillo del warning y del changed es mas suave
+
+2.2.3
+- Arreglado el color del boton al instalar aplicaciones nuevas

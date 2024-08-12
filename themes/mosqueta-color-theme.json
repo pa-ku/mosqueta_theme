@@ -11,7 +11,7 @@
     "descriptionForeground": "#707a8c",
     "textBlockQuote.background": "#1c212b",
 
-    "list.warningForeground": "#d660c7",
+    "list.warningForeground": "#ffd073d4",
     "activityBar.activeFocusBorder": "#250621",
     "activityBarTop.background": "#111",
     "activityBarTop.activeBackground": "#3b0835",
@@ -39,12 +39,12 @@
     "menu.foreground": "#9ca6b8",
 
     "menu.separatorBackground": "#354056",
+    "tab.activeBackground": "#171b24",
 
-    "tab.activeBackground": "#250621",
     "tab.activeForeground": "#e1e1e1",
     "tab.border": "#171b24",
-    "tab.activeBorder": "#250621",
-    "tab.activeBorderTop": "#171b24",
+    "tab.activeBorder": "#171b24",
+    "tab.activeBorderTop": "#232834",
     "tab.unfocusedActiveBorderTop": "#707a8c",
     "tab.inactiveBackground": "#232834",
     "tab.inactiveForeground": "#989faa",
@@ -58,15 +58,17 @@
     "editorGroupHeader.tabsBorder": "#171b24",
 
     "textLink.foreground": "#ff89ef",
-    "textLink.activeForeground": "#ffddfa",
-    "textPreformat.foreground": "#cccac2",
+    "textLink.activeForeground": "#ff89ef",
+    "textPreformat.foreground": "#ff89ef",
     "button.background": "#ff89ef44",
     "button.foreground": "#ff89ef",
     "button.hoverBackground": "#ff89ef6a",
 
     "button.secondaryBackground": "#707a8c33",
-    "button.secondaryForeground": "#cccac2",
+    "button.secondaryForeground": "#ff89ef",
     "button.secondaryHoverBackground": "#707a8c80",
+
+    
     "dropdown.background": "#242936",
     "dropdown.foreground": "#707a8c",
     "dropdown.border": "#707a8c45",
@@ -97,8 +99,8 @@
 
     "list.activeSelectionBackground": "#ff89ef1a",
     "list.inactiveSelectionBackground": "#ff89ef1a",
-    "list.activeSelectionForeground": "#ff89ef",
-    "list.inactiveSelectionForeground": "#ff89ef",
+    "list.activeSelectionForeground": "#f36de1",
+    "list.inactiveSelectionForeground": "#f36de1",
 
     "list.focusBackground": "#ff89ef1a",
     "list.focusForeground": "#ff89efc7",
@@ -224,7 +226,7 @@
     "statusBarItem.remoteBackground": "#3b0835",
     "statusBarItem.remoteForeground": "#fda2f1",
 
-    "extensionButton.prominentForeground": "#3b0835",
+    "extensionButton.prominentForeground": "#fda2f1",
     "extensionButton.prominentBackground": "#fda2f1",
     "extensionButton.prominentHoverBackground": "#fac761",
     "pickerGroup.border": "#171b24",
@@ -237,7 +239,7 @@
     "welcomePage.progress.background": "#1a1f29",
     "walkThrough.embeddedEditorBackground": "#1c212b",
 
-    "gitDecoration.modifiedResourceForeground": "#80bfffb3",
+    "gitDecoration.modifiedResourceForeground": "#80c0ffd8",
     "gitDecoration.deletedResourceForeground": "#f27983b3",
     "gitDecoration.untrackedResourceForeground": "#b6ff9db3",
     "gitDecoration.ignoredResourceForeground": "#707a8c80",
