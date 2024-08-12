@@ -2,9 +2,9 @@
  
 - **Minimalista:** Diseñado para ofrecer una experiencia de desarrollo serena y enfocada.
 
-- **Visibilidad:** Con una paleta de colores en tonos rosados y suaves, este tema busca minimizar distracciones.
+- **Visibilidad:** Con una paleta de colores en tonos rosados suaves, este tema busca minimizar distracciones.
 
-- **Ligero:** Mosqueta agrega solo lo necesario, pesando asi solo 20kb
+- **Ligero:** Mosqueta agrega solo lo necesario, un chanchito liviano de solo 20kb
 
 <br>
 

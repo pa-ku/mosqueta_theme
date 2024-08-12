@@ -1,10 +1,11 @@
 {
   "name": "mosqueta",
-  "displayName": "Mosqueta Theme",
+  "displayName": "Mosqueta SoftDarkTheme",
   "license": "MIT",
   "author": "paku",
-  "description": "Theme de 20kb, más simple, más legible, más chancho",
-  "version": "2.1.9",
+
+  "description": "DarkTheme más simple, más legible, de 20kb, más chanchito",
+  "version": "2.2.1",
   "publisher": "Paku",
   "repository": "https://github.com/pa-ku/mosqueta_vstheme",
   "engines": {
