@@ -6,15 +6,11 @@
 
 - **Ligero:** Mosqueta agrega solo lo necesario, un chanchito liviano de solo 20kb
 
-<br>
+https://github.com/user-attachments/assets/3216bf19-cc42-405e-81c8-6a8a3514d621
 
  **<a href="https://marketplace.visualstudio.com/items?itemName=Paku.mosqueta" target="_blank">Marketplace</a>**
 <br>
 
 **<a href="https://github.com/pa-ku/mosqueta_theme/tree/main" target="_blank">Github</a>**
 
-# Imagenes <img src="https://raw.githubusercontent.com/pa-ku/vs_extension_images/main/mosqueta_icon.webp" heigth="50px" width="50px">
-
-![main](https://raw.githubusercontent.com/pa-ku/vs_extension_images/main/mosqueta_main.webp)
-![example](https://raw.githubusercontent.com/pa-ku/vs_extension_images/main/mosqueta_image3.png)
-![example](https://raw.githubusercontent.com/pa-ku/vs_extension_images/main/mosqueta_example.webp)
+# <img src="https://raw.githubusercontent.com/pa-ku/vs_extension_images/main/mosqueta_icon.webp" heigth="50px" width="50px">
