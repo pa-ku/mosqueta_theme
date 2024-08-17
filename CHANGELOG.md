@@ -48,3 +48,6 @@
 
 2.2.3
 - Arreglado el color del boton al instalar aplicaciones nuevas
+
+2.2.4
+- Agregado un nuevo video mostrando la extensión
