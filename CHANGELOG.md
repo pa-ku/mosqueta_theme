@@ -47,7 +47,16 @@
     - el amarillo del warning y del changed es mas suave
 
 2.2.3
-- Arreglado el color del boton al instalar aplicaciones nuevas
+    - Arreglado el color del boton al instalar aplicaciones nuevas
 
 2.2.4
-- Agregado un nuevo video mostrando la extensión
+    - Agregado un nuevo video mostrando la extensión
+
+2.2.6
+    - Agregado un light Theme
+
+2.2.7
+    - Arreglado los botones del light theme
+    - Nuevo backgroundHover en los toolbar
+    - Nuevo background un poco mas oscuro y legible
+    - Arreglado typo en la descripción

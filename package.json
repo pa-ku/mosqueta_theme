@@ -1,11 +1,10 @@
 {
   "name": "mosqueta",
-  "displayName": "Mosqueta SoftDarkTheme",
+  "displayName": "Mosqueta Theme",
   "license": "MIT",
   "author": "paku",
-
-  "description": "DarkTheme más simple, más legible, de 20kb, más chanchito",
-  "version": "2.2.4",
+  "description": "Dark y light theme liviano de 20kb, mas legibilidad, más chanchito",
+  "version": "2.2.7",
   "publisher": "Paku",
   "repository": "https://github.com/pa-ku/mosqueta_vstheme",
   "engines": {
@@ -18,9 +17,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "mosqueta",
-        "uiTheme": "vs-dark",
+        "label": "Mosqueta Dark",
+        "uiTheme": "vs",
         "path": "./themes/mosqueta-color-theme.json"
+      },
+      {
+        "label": "Mosqueta Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mosquetalight-color-theme.json"
       }
     ]
   }

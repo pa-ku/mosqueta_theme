@@ -6,6 +6,8 @@
 
 - **Ligero:** Mosqueta agrega solo lo necesario, un chanchito liviano de solo 20kb
 
+Ahora con un nuevo light theme!
+
 ![mosqueta](https://github.com/user-attachments/assets/e0db46a8-2519-4edf-a83e-b35c2792fcbf)
 
  **<a href="https://marketplace.visualstudio.com/items?itemName=Paku.mosqueta" target="_blank">Marketplace</a>**
