@@ -82,7 +82,7 @@
     "dropdown.border": "#ffc7f8",
 
     "toolbar.hoverBackground": "#fde0f7",
-    "toolbar": "#cd04b2",
+
 
     "input.background": "#fff",
     "input.border": "#af0298",
@@ -257,7 +257,7 @@
     "panelTitle.activeForeground": "#4d0042",
     "panelTitle.inactiveForeground": "#4d0042",
 
-    "terminal.background": "#4d0042",
+    "terminal.background": "#fdebfb",
     "terminal.foreground": "#797979",
     "terminal.ansiBlack": "#2a3243",
     "terminal.ansiRed": "#ed8274",

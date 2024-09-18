@@ -71,10 +71,13 @@
     "dropdown.background": "#242936",
     "dropdown.foreground": "#707a8c",
     "dropdown.border": "#707a8c45",
-    "input.background": "#242936",
-    "input.border": "#707a8c45",
-    "input.foreground": "#cccac2",
-    "input.placeholderForeground": "#707a8c80",
+
+    "input.background": "#323743",
+    "input.border": "#323743",
+    "input.foreground": "#ccc8b9",
+    "inlineChatInput.placeholderForeground": "#fff",
+    "editor.placeholder.foreground": "#a6a6a6",
+    "input.placeholderForeground": "#a6a6a6",
 
     "inputOption.activeBorder": "#ffcc664d",
     "inputOption.activeBackground": "#ffcc6633",
@@ -96,7 +99,7 @@
     "badge.foreground": "#ff89ef",
     "progressBar.background": "#ff89ef",
 
-    "toolbar.hoverBackground":"#ff89ef1a",
+    "toolbar.hoverBackground": "#ff89ef1a",
 
     "list.activeSelectionBackground": "#ff89ef1a",
     "list.inactiveSelectionBackground": "#ff89ef1a",
