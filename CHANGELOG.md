@@ -60,3 +60,9 @@
     - Nuevo backgroundHover en los toolbar
     - Nuevo background un poco mas oscuro y legible
     - Arreglado typo en la descripción
+
+2.2.8
+    - Dark Theme changes:
+        - Arreglado parentesis y brackets no mostrando el color correcto
+        - las funciones ahora se destacan en rosa
+        - Toolkit background hover cambiado a un rosa claro

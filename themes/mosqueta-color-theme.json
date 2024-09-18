@@ -96,6 +96,8 @@
     "badge.foreground": "#ff89ef",
     "progressBar.background": "#ff89ef",
 
+    "toolbar.hoverBackground":"#ff89ef1a",
+
     "list.activeSelectionBackground": "#ff89ef1a",
     "list.inactiveSelectionBackground": "#ff89ef1a",
     "list.activeSelectionForeground": "#f36de1",
@@ -314,11 +316,13 @@
         "foreground": "#ffec80"
       }
     },
+
     {
-      "name": "Built-in constants",
+      "name": "Built-in constants, true false",
+
       "scope": ["constant.language"],
       "settings": {
-        "foreground": "#dfbfff"
+        "foreground": "#ff89ef"
       }
     },
     {
@@ -351,7 +355,7 @@
       }
     },
     {
-      "name": "Keyword",
+      "name": "Keyword return if import export default",
       "scope": ["keyword"],
       "settings": {
         "foreground": "#ff8181"
@@ -428,7 +432,7 @@
       "name": "showFunctions",
       "scope": ["storage.type.function"],
       "settings": {
-        "foreground": "#f28779"
+        "foreground": "#ff89d8"
       }
     },
     {
@@ -738,11 +742,11 @@
     {
       "name": "parentesis",
       "scope": [
-        "punctuation.definition.parameters.end",
+        "punctuation.definition.parameters",
         "punctuation.definition.block"
       ],
       "settings": {
-        "foreground": "#ff0606"
+        "foreground": "#ffc551"
       }
     },
     {
