@@ -82,3 +82,7 @@
 - Light Theme:
     - tabs now are darker when selected
     - git decorations are now more readeable
+
+2.3.2:
+    - Nuevos colores para el light theme, mas consistentes y legibles
+    - Arreglado el color de los botones en el inicio de vs code

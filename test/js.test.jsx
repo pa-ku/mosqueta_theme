@@ -13,12 +13,6 @@ export async function testTheme() {
         Hello, World!
       </h1>
       <button
-        style={{
-          backgroundColor: theme.buttonColor,
-          color: theme.color,
-          fontWeight: 'bold',
-          cursor: 'pointer',
-        }}
       >
         Button
       </button>
