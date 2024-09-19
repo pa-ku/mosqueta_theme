@@ -1,18 +1,13 @@
-# Mosqueta 
+<div align="center">
  
-- **Minimalista:** Diseñado para ofrecer una experiencia de desarrollo serena y enfocada.
+# Mosqueta Theme
+</div>
+ Mosqueta es un tema minimalista que combina una paleta de rosas y tonos cálidos para ofrecer una interfaz limpia y agradable. Disponible en versiones Light y Dark, su diseño ligero y elegante crea una experiencia visual suave y enfocada, perfecta para quienes buscan simplicidad sin sacrificar estilo.
 
-- **Visibilidad:** Con una paleta de colores en tonos rosados suaves, este tema busca minimizar distracciones.
 
-- **Ligero:** Mosqueta agrega solo lo necesario, un chanchito liviano de solo 20kb
+# Dark Theme
+![Captura desde 2024-09-19 18-16-39](https://github.com/user-attachments/assets/563c8e26-7560-40c3-a5e9-d5d8116cb07c)
 
-Ahora con un nuevo light theme!
 
-![mosqueta](https://github.com/user-attachments/assets/e0db46a8-2519-4edf-a83e-b35c2792fcbf)
-
- **<a href="https://marketplace.visualstudio.com/items?itemName=Paku.mosqueta" target="_blank">Marketplace</a>**
-<br>
-
-**<a href="https://github.com/pa-ku/mosqueta_theme/tree/main" target="_blank">Github</a>**
-
-# <img src="https://raw.githubusercontent.com/pa-ku/vs_extension_images/main/mosqueta_icon.webp" heigth="50px" width="50px">
+# Nuevo Light theme!
+![Captura desde 2024-09-19 18-14-44](https://github.com/user-attachments/assets/a8985364-c050-4a4d-8971-682c92938d26)
