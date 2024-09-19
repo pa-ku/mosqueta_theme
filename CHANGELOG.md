@@ -40,8 +40,10 @@
     - el color de los errores ahora es mas claro
 
 2.2.2
--Activity bar:
-    - el color ahora no es rosa sino un azul oscuro facilitando la integración de la ui
+- Activity bar:
+    - el color ahora no es rosa sino un azul oscuro facilitando la integración de 
+   
+- La ui:
     - Ahora el rosa al seleccionar un link es mas suave
     - los anchor tienen un rosa mas suave
     - el amarillo del warning y del changed es mas suave
@@ -49,20 +51,34 @@
 2.2.3
     - Arreglado el color del boton al instalar aplicaciones nuevas
 
-2.2.4
+2.2.4:
     - Agregado un nuevo video mostrando la extensión
 
-2.2.6
+2.2.6:
     - Agregado un light Theme
 
-2.2.7
+2.2.7:
     - Arreglado los botones del light theme
     - Nuevo backgroundHover en los toolbar
     - Nuevo background un poco mas oscuro y legible
     - Arreglado typo en la descripción
 
-2.2.8
-    - Dark Theme changes:
+2.2.8:
+    -Dark Theme:
         - Arreglado parentesis y brackets no mostrando el color correcto
         - las funciones ahora se destacan en rosa
         - Toolkit background hover cambiado a un rosa claro
+
+2.2.9:
+- Light Theme:
+    - Terminal bg changed from dark to light pink
+
+2.3.0:
+- Fixes:
+    - fixed description typo
+    - fixed vs light showing in the dark section
+
+2.3.1:
+- Light Theme:
+    - tabs now are darker when selected
+    - git decorations are now more readeable

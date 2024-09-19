@@ -4,7 +4,7 @@
   "license": "MIT",
   "author": "paku",
   "description": "Dark y light theme liviano de 20kb, mas legibilidad, más chanchito",
-  "version": "2.2.8",
+  "version": "2.3.1",
   "publisher": "Paku",
   "repository": "https://github.com/pa-ku/mosqueta_vstheme",
   "engines": {
@@ -18,12 +18,12 @@
     "themes": [
       {
         "label": "Mosqueta Dark",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/mosqueta-color-theme.json"
       },
       {
         "label": "Mosqueta Light",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/mosquetalight-color-theme.json"
       }
     ]
