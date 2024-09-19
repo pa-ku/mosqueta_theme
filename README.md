@@ -9,9 +9,9 @@
 
 
 
-# Dark Theme
+# 🌕 Dark Theme
 ![Captura desde 2024-09-19 18-16-39](https://github.com/user-attachments/assets/563c8e26-7560-40c3-a5e9-d5d8116cb07c)
 
 
-# Nuevo Light theme!
+# ☀️ Light Theme!
 ![Captura desde 2024-09-19 18-14-44](https://github.com/user-attachments/assets/a8985364-c050-4a4d-8971-682c92938d26)
