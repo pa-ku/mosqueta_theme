@@ -1,8 +1,12 @@
 <div align="center">
+ <img src="https://github.com/user-attachments/assets/7d7ccc35-7865-4d9f-91a6-19288d523466" width="70px" >
+
  
 # Mosqueta Theme
+
 </div>
  Mosqueta es un tema minimalista que combina una paleta de rosas y tonos cálidos para ofrecer una interfaz limpia y agradable. Disponible en versiones Light y Dark, su diseño ligero y elegante crea una experiencia visual suave y enfocada, perfecta para quienes buscan simplicidad sin sacrificar estilo.
+
 
 
 # Dark Theme
